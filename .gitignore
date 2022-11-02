@@ -24,7 +24,6 @@
 /public/packs
 /public/packs-test
 /vendor
-/node_modules
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
@@ -39,3 +38,6 @@ doc
 
 # Ignore INFO.md
 INFO.md
+
+#Ignore depencies code
+node_modules
